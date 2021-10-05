@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: EricRao SMP
 serverDescription: 欢迎加入！！!
 serverIP: mc.ericrao.icu
-useBedrockForOnlineStatus: true
+useBedrockForOnlineStatus: false
 
 
 # Discord information
