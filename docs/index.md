@@ -12,7 +12,7 @@ cellLinks:
     curl: screenshots
     cimage: media/demo03.jpg
 
-  - cname: 官方文档（萌新必看）
+  - cname: 官方文档
     curl: donate
     cimage: media/demo04.jpg
 ---
