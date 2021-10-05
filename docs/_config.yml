@@ -4,7 +4,7 @@
 url: "https://itsericrao.github.io"
 baseurl: "/smp"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2021
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: EricRao SMP
 serverDescription: 欢迎加入！！!
 serverIP: mc.ericrao.icu
-useBedrockForOnlineStatus: true
+useBedrockForOnlineStatus: false
 
 
 # Discord information
