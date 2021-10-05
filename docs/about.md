@@ -5,19 +5,6 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
-
-# Privacy Policy
-
-This website does not collect any data, but third party integrations may collect data to provide a service.
-
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+一个于2021年8月13日开放游玩的生存服务器
+服务器所有链接：http://links.ericrao.icu
+服务器邮箱：smp@ericrao.icu
