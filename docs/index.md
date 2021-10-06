@@ -8,8 +8,8 @@ cellLinks:
     curl: map
     cimage: media/demo02.jpg
 
-  - cname: 服务器截图
-    curl: screenshots
+  - cname: 服务器所有链接
+    curl: http://links.ericrao.icu
     cimage: media/demo03.jpg
 
   - cname: 官方文档
