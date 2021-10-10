@@ -24,4 +24,13 @@ navname: Join
 		src="https://docs.qq.com/sheet/DWWlBdmlxV3hLSHph">
 	</iframe>
 </center>
+**然后务必阅读以下文档来了解如何加入**<br>
+<center>
+	<iframe id="inlineFrameExample"
+		title="Inline Frame Example"
+		width="800"
+		height="600"
+		src="https://docs.ericrao.icu">
+	</iframe>
+</center>
 
