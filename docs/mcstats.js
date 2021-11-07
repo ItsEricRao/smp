@@ -11,6 +11,7 @@ function fetchData() {
 		const players_max = data.players_max
 		const players_online = data.players_online
 		const version = data.version
+		document.open();
 		document.write("<h1>-=EricRao SMP服务器状态=-</h1>");
 		document.write("<a>状态：</a>");
 		document.write(status);
@@ -20,6 +21,7 @@ function fetchData() {
 		document.write(players_max);
 		document.write("<br><a>游戏版本：</a>");
 		document.write(version);
+		document.close();
 
 		
 
