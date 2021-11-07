@@ -34,3 +34,39 @@ function fetchData() {
 }
 
 fetchData();
+var p = new Ping();
+ 
+
+p.ping("http://chat.ericrao.icu", function(err, data) {
+  // Also display error if err is returned.
+  if (err) {
+    console.log("error loading resource")
+    data = data + " " + err;
+  }
+  document.getElementById("ping-chat").innerHTML = data;
+});
+
+p.ping("http://smp.ericrao.icu", function(err, data) {
+  if (err) {
+    console.log("error loading resource")
+    data = data + " " + err;
+  }
+  document.getElementById("ping-web").innerHTML = data;
+});
+
+p.ping("https://docs.ericrao.icu", function(err, data) {
+  if (err) {
+    console.log("error loading resource")
+    data = data + " " + err;
+  }
+  document.getElementById("ping-doc").innerHTML = data;
+});
+
+
+p.ping("http://map.ericrao.icu", function(err, data) {
+  if (err) {
+    console.log("error loading resource")
+    data = data + " " + err;
+  }
+  document.getElementById("ping-map").innerHTML = data;
+});
