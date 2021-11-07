@@ -21,6 +21,7 @@ function fetchData() {
 		document.write(players_max);
 		document.write("<br><a>游戏版本：</a>");
 		document.write(version);
+		document.write("<br><ul><li>聊天室：<span id=\"ping-chat\"><\/span><\/li><li>官网：<span id=\"ping-web\"><\/span><\/li><li>文档：<span id=\"ping-doc\"><\/span><\/li><li>Dynmap地图：<span id=\"ping-map\"><\/span><\/li><\/ul>");
 		document.close();
 
 		
