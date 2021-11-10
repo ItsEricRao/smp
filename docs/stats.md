@@ -2,6 +2,7 @@
 layout: page
 navname: Join
 ---
+TEST
 <html>
 	<head>
 	</head>
