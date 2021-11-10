@@ -3,4 +3,4 @@ layout: page
 navname: Stats
 ---
 TEST
-<script src="mcstats.js"></script>
+<a><script src="mcstats.js"></script></a>
