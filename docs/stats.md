@@ -2,5 +2,11 @@
 layout: page
 navname: Stats
 ---
-TEST<a>shhdigfidgiyd</a>
-<a><script src="mcstats.js"></script></a>
+<center>
+	<iframe id="inlineFrameExample"
+		title="Inline Frame Example"
+		width="800"
+		height="600"
+		src="stats_old.html">
+	</iframe>
+</center>
