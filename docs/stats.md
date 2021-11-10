@@ -1,16 +1,6 @@
 ---
 layout: page
-navname: Join
+navname: Stats
 ---
 TEST
-<html>
-	<head>
-	</head>
-		<meta charset="UTF-8">
-		<script src="mcstats.js"></script>
-		<script src="ping.min.js" type="text/javascript"></script>
-	<body>
-		<script>
-		</script>
-	</body>
-</html>
+<script src="mcstats.js"></script>
