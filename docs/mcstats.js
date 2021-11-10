@@ -12,7 +12,7 @@ function fetchData() {
 		const players_online = data.players_online
 		const version = data.version
 		document.open();
-		document.write("<center style="color:white"><h1>-=EricRao SMP服务器状态=-</h1>");
+		document.write("<center style="color:white";><h1>-=EricRao SMP服务器状态=-</h1>");
 		document.write("<a>状态：</a>");
 		document.write(status);
 		document.write("<br><a>在线玩家：</a>");
