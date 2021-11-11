@@ -6,7 +6,7 @@ navname: Stats
 	<iframe id="inlineFrameExample"
 		title="Inline Frame Example"
 		width="800"
-		height="200"
+		height="150"
 		src="stats_old.html">
 	</iframe>
 </center>
