@@ -12,7 +12,7 @@ navname: Stats
 	<iframe id="inlineFrameExample"
 		title="Inline Frame Example"
 		width="800"
-		height="150"
+		height="600"
 		src="/ustats/index.html">
 	</iframe>
 </center>
